@@ -1,3 +1,4 @@
+![Screenshot (67)](https://github.com/joy02-gono/alx-system_engineering-devops/assets/111013732/b7a8b23e-915f-46e7-897a-0028d6cd7b49)
 
 ISSUE SUMMARY
 On 13 May, 2023, 5thwork site became very slow and unavailable and this impacted on the ability of some students to take the assessment. The backend team seem to have fixed the issue, and in other to be very sure, they have triggered an upgrade of the course infrastructure. The outage was caused by a server issue that resulted in the application being unavailable to users. The impact of the outage was significant, with many users unable to access critical functionality of the application during the outage.
